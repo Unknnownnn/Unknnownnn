@@ -21,4 +21,4 @@
 <br/>
 <hr/>
 
-![snake gif](https://github.com/Unknnownnn/Unknnownnn/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Unknnownnn/Unknnownnn/output/github-contribution-grid-snake-dark.svg)
