@@ -1,6 +1,6 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2500&pause=500&center=true&vCenter=true&width=800&lines=Cybersecurity;Artificial+Intelligence;Web+Development;Python)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2500&pause=500&center=true&vCenter=true&width=800&lines=Cybersecurity;Artificial+Intelligence;Web+Development;Python;Blockchain)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakansh-gupta-10b58a28a) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Unnknownnn__)
