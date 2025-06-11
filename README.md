@@ -22,3 +22,10 @@
 <hr/>
 
 ![snake gif](https://raw.githubusercontent.com/Unknnownnn/Unknnownnn/output/github-contribution-grid-snake-dark.svg)
+
+
+<br/>
+<hr/>
+
+
+![Unknnownnn's Stats](https://github-readme-stats.vercel.app/api?username=Unknnownnn&theme=blue-green&show_icons=true&hide_border=true&count_private=true)![Unknnownnn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unknnownnn&theme=blue-green&hide_border=true)
