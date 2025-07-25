@@ -21,6 +21,7 @@
 <h2 align="center">Licenses</h2>
 
 [![Credly Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dad7e546-3ce5-4f5f-af63-856dd1d13bb7/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
 
 <br/>
 <hr/>
