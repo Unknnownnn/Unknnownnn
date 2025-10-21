@@ -22,7 +22,7 @@
 
 [![Credly Badge](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/cf7a4f52-7f2a-4b0a-aee8-8bf541c752ac/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dad7e546-3ce5-4f5f-af63-856dd1d13bb7/public_url)
-[![Credly Badge](https://images.credly.com/size/110x110/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/0bde7e2d-f7bf-45a7-bd72-129541acd54b/public_url)
 <a href="https://badgr.com/public/assertions/u52ZynVIT0qwUFMieTUdfg">
  <img src="https://api.badgr.io/public/assertions/u52ZynVIT0qwUFMieTUdfg/image" width="110" height="110" alt="Canvas Badge">
