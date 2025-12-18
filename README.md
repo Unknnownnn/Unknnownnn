@@ -14,8 +14,8 @@
 <h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,arduino,html,vscode,github,bash,powershell,tailwind,git,r,linux,ps,ae,pr" />
-    <img src="https://skillicons.dev/icons?i=css,nodejs,python,javascript,typescript,c,cpp,java,nextjs,mysql,npm,raspberrypi,solidity,flask,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=react,arduino,html,vscode,github,bash,powershell,git,r,linux,ps,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=css,nodejs,python,javascript,typescript,c,cpp,java,nextjs,mysql,npm,flask,firebase" /><br>
 </div>
 
 <h2 align="center">Licenses</h2>
