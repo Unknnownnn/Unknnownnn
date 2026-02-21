@@ -20,6 +20,7 @@
 
 <h2 align="center">Licenses</h2>
 
+[![Credly Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e9012634-91f2-48a3-9d32-dc40ffdf46ef/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/cf7a4f52-7f2a-4b0a-aee8-8bf541c752ac/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dad7e546-3ce5-4f5f-af63-856dd1d13bb7/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
