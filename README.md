@@ -27,9 +27,7 @@
 [![Credly Badge](https://images.credly.com/size/110x110/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/0bde7e2d-f7bf-45a7-bd72-129541acd54b/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/d18ad395-a8cd-4a9b-9d16-45a865157ba7/public_url)
-<a href="https://badgr.com/public/assertions/u52ZynVIT0qwUFMieTUdfg">
- <img src="https://api.badgr.io/public/assertions/u52ZynVIT0qwUFMieTUdfg/image" width="110" height="110" alt="Canvas Badge">
-</a>
+
 
 <br/>
 <hr/>
