@@ -21,6 +21,7 @@
 <h2 align="center">Certifications</h2>
 
 [![Credly Badge](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/dec3929d-6341-4e37-aa39-b0cf38698bf7/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/e0759761-63f1-4a88-9a17-dda837137008/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e9012634-91f2-48a3-9d32-dc40ffdf46ef/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/cf7a4f52-7f2a-4b0a-aee8-8bf541c752ac/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dad7e546-3ce5-4f5f-af63-856dd1d13bb7/public_url)
