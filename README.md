@@ -25,7 +25,7 @@
 [![Credly Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e9012634-91f2-48a3-9d32-dc40ffdf46ef/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/cf7a4f52-7f2a-4b0a-aee8-8bf541c752ac/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/dad7e546-3ce5-4f5f-af63-856dd1d13bb7/public_url)
-[![Credly Badge](https://images.credly.com/size/110x110/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob)](https://www.credly.com/badges/bb2efcf8-40ec-4a5d-913a-70a82a3a7e12/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/a30952f3-f354-4233-b02a-690ffe95d190/blob)](https://www.credly.com/badges/070ae2cb-9046-4e8e-b794-bfa33c2cc487/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/0bde7e2d-f7bf-45a7-bd72-129541acd54b/public_url)
 [![Credly Badge](https://images.credly.com/size/110x110/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/d18ad395-a8cd-4a9b-9d16-45a865157ba7/public_url)
 
